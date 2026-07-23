@@ -1,4 +1,4 @@
-from main import get_item_count
+
 
 TestCase = tuple[dict[str, int], str, int]
 
